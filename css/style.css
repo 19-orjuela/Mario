@@ -10,11 +10,33 @@ p{
     background-color: forestgreen;
     padding: 30px;
 }
-a{
-    border-bottom: green;
-    margin: 25px;
-    padding: 30px;
+a{   
+    border-radius: 5px;
+    background-color: khaki;
+    color: darkblue;
+    margin: 30px;
+    padding: 10px;
 }
 footer{
     padding: 80px;
+}
+i{
+    color: crimson;
+}
+#luigi{
+    text-align: right;
+    word-spacing: 20px;
+}
+.links{
+    padding: 50px;
+    margin: 50px;
+}
+#lpeach{
+    in
+    display: block;
+    padding: 35px;
+    margin: 35px;
+}
+.xd{
+    margin-block-start: 50px|;
 }

@@ -1,10 +1,13 @@
 body {
     background-color: darkgrey;
     padding: 50px;
+    
+    margin: 100px;
 }
 h1{
     color: darkred;
     padding: 50px;
+    letter-spacing: 3px;
 }
 p{
     background-color: forestgreen;
@@ -18,3 +21,48 @@ a{
 footer{
     padding: 80px;
 }
+
+.color-azul{
+    color: cornsilk;
+}
+
+.parrafo {
+    word-spacing: 10px;
+    text-align:right;
+    }
+
+#botones{
+    width: 60%; /*ancho de la caja */
+    margin-left: 250px; /* me centra la caja */
+    border: 2px solid hsla(15, 100%, 50%, 1);
+    text-align: center
+}
+
+.prueba{
+  display: inline-block; /*me alinia los botones*/
+  margin: 10px;
+  border: 2px solid cornsilk ;
+  background-color: thistle;
+  border-radius: 3px;
+
+}
+.prueba1{
+    display: inline-block; /*me alinia los botones*/
+    margin: 10px;
+     
+  }
+
+  #botones2{
+    width: 60%; /*ancho de la caja */
+    margin-top: 30px;
+    margin-left: 250px; /* me centra la caja */
+    border: 1px solid hsla(15, 100%, 50%, 1);
+    text-align: center;
+  }
+    
+
+.prueba2{
+     display: block; /*me alinia los botones*/
+     margin-left: 30px ;
+     border-radius: 3px;
+    }
